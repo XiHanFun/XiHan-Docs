@@ -1,2 +1,4 @@
-'.temp' 
-'.cache' 
+.temp
+.cache
+zhaifanhuablog-docs/node_modules/
+zhaifanhuablog-docs/docs/.vuepress/dist/
