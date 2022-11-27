@@ -1,0 +1,19 @@
+{
+  "name": "zhaifanhuablog-docs",
+  "version": "1.0.0",
+  "description": "摘繁华博客官方文档",
+  "main": "index.js",
+  "repository": "https://github.com/ZhaiFanhuaBlog/ZhaiFanhuaBlog.Docs",
+  "author": "ZhaiFanhua",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.53"
+  }
+}
