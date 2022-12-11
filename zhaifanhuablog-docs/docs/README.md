@@ -10,7 +10,7 @@ heroAlt: "LOGO"
 tagline: "高效快速 拥抱开源 用心创作 探索未知"
 actions:
   - text: "快速上手"
-    link: /zh/guide/getting-started.html
+    link: /guide/getting-started.html
     type: primary
   - text: "项目简介"
     link: /guide/
@@ -22,5 +22,5 @@ features:
     details: "后端由 .NET7 驱动，前端由 Vue3 驱动，容器化、跨平台、云原生带来了持续的性能改进。"
   - title: "简洁至上"
     details: "以 Markdown 为中心的项目结构，以最少的配置帮助你自定义站点和专注写作。"
-footer: "Copyright ©2022 ZhaiFanhua All Rights Reserved."
+footer: "MIT Licensed | Copyright ©2022 ZhaiFanhua All Rights Reserved."
 ---
