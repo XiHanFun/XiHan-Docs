@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"指南","lang":"zh-CN","frontmatter":{"title":"指南","description":"一款基于 DotNet7 的博客项目，高效、快速、开源、免费。"},"headers":[{"level":2,"title":"它是如何工作的？","slug":"它是如何工作的","link":"#它是如何工作的","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/README.md"}');export{e as data};

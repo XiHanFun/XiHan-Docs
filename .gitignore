@@ -1,4 +1,7 @@
-.temp
+# 忽略node_modules目录
+node_modules/
+
+# 目录文件
 .cache
-zhaifanhuablog-docs/node_modules/
-zhaifanhuablog-docs/docs/.vuepress/dist/
+.temp
+xihandocs/.vuepress/dist
