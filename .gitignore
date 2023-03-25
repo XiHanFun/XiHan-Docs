@@ -4,4 +4,4 @@ node_modules/
 # 目录文件
 .cache
 .temp
-xihandocs/.vuepress/dist
+src/.vuepress/dist
