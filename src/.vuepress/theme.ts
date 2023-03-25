@@ -20,7 +20,7 @@ export default hopeTheme(
     docsRepo: "XiHanFun/XiHan.Docs",
     docsDir: "src",
 
-    copyright: "MIT Licensed | Copyright ©2022 ZhaiFanhua All Rights Reserved.",
+    copyright: "MIT Licensed | Copyright ©2023 ZhaiFanhua All Rights Reserved.",
     displayFooter: true,
 
     pageInfo: ["ReadingTime", "Category", "Tag"],

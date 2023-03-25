@@ -30,5 +30,5 @@ features:
     details: 以 Markdown 为中心的项目结构，以最少的配置帮助你自定义站点和专注写作。
     link:
 
-copyright: MIT Licensed | Copyright ©2022  <a href="https://www.zhaifanhua.com" target="_blank">ZhaiFanhua</a> All Rights Reserved.
+copyright: MIT Licensed | Copyright ©2023  <a href="https://www.zhaifanhua.com" target="_blank">ZhaiFanhua</a> All Rights Reserved.
 ---
