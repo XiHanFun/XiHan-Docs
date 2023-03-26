@@ -3,8 +3,8 @@ home: true
 icon: home
 title: 首页
 heroImage: /logo.svg
-heroText: 曦寒
-tagline: 高效快速 拥抱开源 用心创作 探索未知
+heroText: 曦寒官方文档
+tagline: 一款打造个人知识产权的新型全场景应用型软件
 actions:
   - text: 项目简介
     link: /guide/
@@ -27,7 +27,7 @@ features:
 
   - title: 简洁至上
     icon: markdown
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你自定义站点和专注写作。
+    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你自定义站点和专注写作。高效快速 拥抱开源 用心创作 探索未知
     link:
 
 copyright: MIT Licensed | Copyright ©2023  <a href="https://www.zhaifanhua.com" target="_blank">ZhaiFanhua</a> All Rights Reserved.
