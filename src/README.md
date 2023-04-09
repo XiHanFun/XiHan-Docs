@@ -4,7 +4,7 @@ icon: home
 title: 首页
 heroImage: /logo.svg
 heroText: 曦寒官方文档
-tagline: 打造个人知识产权的新型全场景应用型软件
+tagline: 打造个人知识产权的新型全场景应用软件
 actions:
   - text: 项目简介
     link: /guide/

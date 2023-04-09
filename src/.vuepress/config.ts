@@ -7,7 +7,7 @@ export default defineUserConfig({
     "/": {
       lang: "zh-CN",
       title: "曦寒官方文档",
-      description: "曦寒，元宇宙，个人知识产权，新型全场景应用型软件",
+      description: "曦寒，元宇宙，个人知识产权，新型全场景应用软件",
     },
   },
   theme,
