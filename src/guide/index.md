@@ -139,7 +139,7 @@ icon: creative
 
 感谢`Visual Studio`、`Visual Studio Code`、`JetBrains Rider`、`Xshell`、`Xftp`、`Typora`作为本项目的开发、测试和编辑的基础设施。
 
-感谢`vuepress-theme-hope`作为搭建本文档的基础设施。
+感谢`VitePress`作为搭建本文档的基础设施。
 
 感谢`ChatGPT`作为某些文档论述的基础设施。
 

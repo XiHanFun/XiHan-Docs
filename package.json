@@ -1,19 +1,32 @@
 {
-  "name": "xihandocs",
+  "name": "xihan-docs",
   "version": "2.0.0",
-  "description": "A project of vuepress-theme-hope",
+  "description": "Xihan Official Explanation Document",
+  "author": {
+    "name": "ZhaiFanhua",
+    "email": "zhaifanhua@foxmail.com",
+    "url": "https://github.com/XiHanFun/XiHan.Docs"
+  },
   "license": "MIT",
-  "type": "module",
+  "homepage": "https://github.com/XiHanFun/XiHan.Docs",
+  "repository": {
+    "url": "https://github.com/XiHanFun/XiHan.Docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XiHanFun/XiHan.Docs/issues"
+  },
   "scripts": {
-    "docs:build": "vuepress build src",
-    "docs:clean-dev": "vuepress dev src --clean-cache",
-    "docs:dev": "vuepress dev src",
-    "docs:update-package": "yarn dlx vp-update"
+    "bootstrap": "yarn",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve",
+    "preview": "vitepress preview",
+    "update-pkg": "ncu --deep -u"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-beta.1"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.61",
-    "vue": "^3.2.47",
-    "vuepress": "2.0.0-beta.61",
-    "vuepress-theme-hope": "2.0.0-beta.197"
+    "vue": "^3.3.4"
   }
 }
