@@ -32,7 +32,7 @@ export default defineConfig({
       provider: "local",
     },
     nav: [
-      { text: "项目指南", link: "/guide/", activeMatch: "/guide/" },
+      { text: "项目简介", link: "/guide/", activeMatch: "/guide/" },
       {
         text: "探索未知",
         items: [

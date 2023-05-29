@@ -25,18 +25,23 @@ hero:
       link: https://github.com/XiHanFun
 
 features:
-  - title: 代码开源
-    icon: 🎉
-    details: 所有代码开源在 GitHub 和 Gitee 上且处于积极维护状态，您也可以在上面提交您的问题或者参与代码贡献。
+  - title: 高效快速
+    icon: 🚀
+    details: 后端由 .NET7 驱动，前端由 Vue3 驱动，精心设计之功能、不断研磨之算法，无一不在程序的高性能、高可用和高扩展性上夯实基础。
     link:
 
-  - title: 强力驱动
-    icon: 🛠️
-    details: 后端由 .NET7 驱动，前端由 Vue3 驱动，容器化、跨平台、云原生带来了持续的性能改进。
+  - title: 拥抱开源
+    icon: 🤩
+    details: 所有代码均开源在 GitHub 和 Gitee 上且处于积极维护状态，在共享所得之时，也积极促进技术之进，社区之兴。
     link:
 
-  - title: 简洁至上
-    icon: 🍃
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你自定义站点和专注写作。高效快速 拥抱开源 用心创作 探索未知
+  - title: 用心创作
+    icon: ✍️
+    details: 以最少的配置帮助你自定义站点，让你专注于发现、定格、创作和回忆美好一瞬，记录你所见所闻、所学所知、所思所想。
+    link:
+
+  - title: 探索未知
+    icon: 🌌
+    details: 探幽寻秘，行走于未尝之地，即便目不识丁，仍要问道于盲。仰望星空，心怀远大，才能揭示宇宙之奥秘，通晓世界之道理，开启探寻之征程。
     link:
 ---
