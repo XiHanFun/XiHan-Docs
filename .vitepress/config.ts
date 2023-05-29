@@ -15,15 +15,6 @@ export default defineConfig({
       },
     ],
     ["link", { rel: "icon", href: "/favicon.ico" }],
-    ["link", { rel: "icon", type: "image/svg+xml", href: "/logo.png" }],
-    [
-      "meta",
-      {
-        name: "viewport",
-        content:
-          "width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
-      },
-    ],
   ],
   themeConfig: {
     logo: "/logo.svg",
@@ -125,13 +116,12 @@ export default defineConfig({
     ],
     editLink: {
       text: "在 GitHub 上编辑此页",
-      pattern: "https://github.com/XiHanFun/XiHan.Docs/tree/main/:path",
+      pattern: "https://github.com/XiHanFun/XiHan.Docs/tree/main/src/:path",
     },
     footer: {
-      message:
-        "碧落降恩承淑颜，共挚崎缘挽曦寒。迁般故事终成忆，谨此葳蕤换思短。",
+      message: "Released under the MIT License.",
       copyright:
-        "MIT Licensed | Copyright ©2023 <a href='https://www.zhaifanhua.com'>ZhaiFanhua</a> All Rights Reserved.",
+        "Copyright ©2023 <a href='https://www.zhaifanhua.com'>ZhaiFanhua</a> All Rights Reserved.",
     },
   },
 });
