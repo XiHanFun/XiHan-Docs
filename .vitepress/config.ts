@@ -131,7 +131,7 @@ export default defineConfig({
       message:
         "碧落降恩承淑颜，共挚崎缘挽曦寒。迁般故事终成忆，谨此葳蕤换思短。",
       copyright:
-        "MIT Licensed | Copyright ©2023 ZhaiFanhua All Rights Reserved.",
+        "MIT Licensed | Copyright ©2023 <a href='https://www.zhaifanhua.com'>ZhaiFanhua</a> All Rights Reserved.",
     },
   },
 });
