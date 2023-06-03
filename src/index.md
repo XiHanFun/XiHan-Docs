@@ -7,7 +7,7 @@ titleTemplate: 新型全场景应用软件
 hero:
   name: 曦寒
   text: 新型全场景应用软件
-  tagline: 基于 Vue 和 DotNet 构建
+  tagline: 基于 DotNet 和 Vue 构建
   image:
     src: /logo.png
     alt: 曦寒
@@ -19,10 +19,6 @@ hero:
     - theme: alt
       text: 项目简介
       link: /guide/
-
-    - theme: alt
-      text: 查看源码
-      link: https://github.com/XiHanFun
 
 features:
   - title: 高效快速跨平台
