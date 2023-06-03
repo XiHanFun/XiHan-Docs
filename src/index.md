@@ -25,15 +25,29 @@ hero:
       link: https://github.com/XiHanFun
 
 features:
-  - title: 高效快速
+  - title: 高效快速跨平台
+    icon: 🛠️
+    details: 后端由 .NET7 驱动，执行速度快于任何其他常用框架，可以在多个平台运行。精心设计之功能、不断研磨之算法，在程序的高性能、高可用和高扩展性上夯实基础。
+    link: https://dotnet.microsoft.com/
+    linkText: "了解 .Net"
+
+  - title: 性能出色灵活多变
     icon: 🚀
-    details: 后端由 .NET7 驱动，前端由 Vue3 驱动，精心设计之功能、不断研磨之算法，无一不在程序的高性能、高可用和高扩展性上夯实基础。
-    link:
+    details: 前端由 Vue3 驱动，经过编译器优化、完全响应式的渲染系统，几乎不需要手动优化。丰富的、可渐进式集成的生态系统，可以根据应用规模在库和框架间切换自如。
+    link: https://vuejs.org/
+    linkText: "了解 Vue.js"
+
+  - title: 界面优雅
+    icon: 🖼️
+    details: 界面采用 Naive UI 开发，一个使用 TypeScript 构建的先进的类型安全主题系统。这个组件库，值得运用。
+    link: https://www.naiveui.com/
+    linkText: "了解 Naive UI"
 
   - title: 拥抱开源
     icon: 🤩
     details: 所有代码均开源在 GitHub 和 Gitee 上且处于积极维护状态，在共享所得之时，也积极促进技术之进，社区之兴。
-    link:
+    link: https://github.com/XiHanFun
+    linkText: "加入我们"
 
   - title: 用心创作
     icon: ✍️
