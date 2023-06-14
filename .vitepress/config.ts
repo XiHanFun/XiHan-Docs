@@ -25,6 +25,11 @@ export default defineConfig({
     nav: [
       { text: "项目简介", link: "/guide/", activeMatch: "/guide/" },
       {
+        text: "变更日志",
+        link: "/guide/ChangeLog.md",
+        activeMatch: "/guide/ChangeLog.md",
+      },
+      {
         text: "探索未知",
         items: [
           {
