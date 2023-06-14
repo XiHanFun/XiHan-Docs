@@ -3,6 +3,108 @@ title: 变更日志
 icon: creative
 ---
 
+
+
+# 2023
+
+## 2023-06-14
+
+1. 新增：实体转换拓展；
+2. [新增：系统字典功能；](https://github.com/XiHanFun/XiHan.Framework/commit/d529ae931deca339dfa1dac6503031d8282546eb)
+3. [优化：跨域；](https://github.com/XiHanFun/XiHan.Framework/commit/847f3840188c4b43069286f6b16eff7199d49bd0)
+4. [优化：第三方登录授权配置；](https://github.com/XiHanFun/XiHan.Framework/commit/2c6e28e4d70c4f5a29f2d70d9a1a18553f82fa53)
+5. [优化：请求上下文拓展；](https://github.com/XiHanFun/XiHan.Framework/commit/8ce77e087bb3152f519ea73af76e9824cb9ab3b0) 
+6. [优化：模型验证；](https://github.com/XiHanFun/XiHan.Framework/commit/fe5a4c3fa75138376f826685def9a73a71e3fad8)
+
+## 2023-05-31
+
+1. [新增：飞书Webhook；](https://github.com/XiHanFun/XiHan.Framework/commit/eb0fb6ddc94e087ddacff02ccdf1dbe1fd628fbd)
+2. [优化：领域驱动设计（DDD）分层设计](https://github.com/XiHanFun/XiHan.Framework/commit/95f15a07188efd3d9e04c338a84d399200abc996)
+3. [优化：SignalR聊天功能；](https://github.com/XiHanFun/XiHan.Framework/commit/919fdd5f87504a78bda079c2ad26870796eab13c) 
+4. 优化：架构层级；
+5. [优化：分页；](https://github.com/XiHanFun/XiHan.Framework/commit/0120d2f7c1e59895233d747b391855a67923931d)
+
+## 2023-04-27
+
+1. [优化：缓存配置；](https://github.com/XiHanFun/XiHan.Framework/commit/badd7780e16fc976b9f7fefa4be9cd69f6c3e6d9) 
+2. 优化：序列化配置；
+3. [优化：实体权限；](https://github.com/XiHanFun/XiHan.Framework/commit/a584d5995c0841f9acc3e6d04df191df947e4a57) 
+
+## 2023-04-21
+
+1. 新增：全局服务管理器；
+2. 新增：全局日志管理器；
+3. 新增：全局配置管理器；
+4. 新增：全局请求上下文管理器；
+5. 新增：应用全局管理器；
+6. [新增：服务器网卡信息；](https://github.com/XiHanFun/XiHan.Framework/commit/98505387a444f1889dfe0f5669330ee58f405f11) 
+7. [新增：实现从字段或属性自动注入服务；](https://github.com/XiHanFun/XiHan.Framework/commit/0a0c4d05d96ef47d0e8084b7c44b639aad891e55)
+8. [优化：版本注释；](https://github.com/XiHanFun/XiHan.Framework/commit/394cf167c542b5984d2583bf8ba79a7ec4cbaf5e)
+9. 优化：字段验证添加中文描述；
+10. 优化：仓储层命名规范；
+11. [优化：主键由guid转为long，提升检索效率；](https://github.com/XiHanFun/XiHan.Framework/commit/adb8c4f44bfa21603fef06a4fe39bf2e13a854b8) 
+12. 优化：对象映射器由AutoMapper转为Mapster，显著提升映射效率；
+13. 优化：命名空间与代码命名规范；
+14. [优化：邮件推送配置；](https://github.com/XiHanFun/XiHan.Framework/commit/e337303a5116d85faa3d4812538c22895d82cbee) 
+15. 优化：企业微信、钉钉WebHook推送配置；
+16. 优化：CDN配置；
+17. [优化：任务创建；](https://github.com/XiHanFun/XiHan.Framework/commit/80edf1a25f21a7c137a347fc48ed23c1e34f9d8d) 
+18. 优化：数据库名称；
+19. 移除：未使用的包；
+20. [测试：即时通信测试；](https://github.com/XiHanFun/XiHan.Framework/commit/c6b242c6104677bf4d27f41c56b18edbaddb0977) 
+21. 测试：跨域配置；
+
+## 2023-04-15
+
+1. [`重要：`修改软件定义；](https://github.com/XiHanFun/XiHan.Framework/commit/78ca4a5e738decb60619212cc55b521a4d6e9f7b)
+2. [新增：处理器信息；](https://github.com/XiHanFun/XiHan.Framework/commit/47b62e6d43dfbca3f5efb18bb931fc154f27101e) 
+3. 新增：内存信息；
+4. 新增：磁盘信息；
+5. [新增：任务计划操作；](https://github.com/XiHanFun/XiHan.Framework/commit/1c16f36a5f1b92dfe389e7ddfdcfd0ca9b0e3a3e)
+6. 优化：部分代码的优雅语法；
+7. [优化：命名规范；](https://github.com/XiHanFun/XiHan.Framework/commit/ea28441f9af907690da907d97b5235a2b7de55f2) 
+8. [优化：移除过时的包；](https://github.com/XiHanFun/XiHan.Framework/commit/0738ed607fbed2d8893e2f9b81ce4c1a216c217c)
+9. [优化：codacy issue；](https://github.com/XiHanFun/XiHan.Framework/commit/4679c1dbff2fdf261adf0813e3d1dab18c6c4038)
+10. [优化：加密解密；](https://github.com/XiHanFun/XiHan.Framework/commit/a33ace911794c39f067d7940ed2564e8a5512ee9) 
+11. 优化：编码解码；
+12. [优化：命名空间优化；](https://github.com/XiHanFun/XiHan.Framework/commit/76691d5f7ff6fc52f08fc30a4c969d686a153b45)
+13. [优化：去除Swagger版本日期信息；](https://github.com/XiHanFun/XiHan.Framework/commit/7a84357b5219ea1d76b2914802fb3ab176ef7905)
+14. [优化：数据库自动获取表结构；](https://github.com/XiHanFun/XiHan.Framework/commit/438ec4cc266b1a27d1611b366f6c11fc2db4efbf) 
+15. [优化：JwtToken配置；](https://github.com/XiHanFun/XiHan.Framework/commit/776e1e81c7c44021d7c267ee33d9ac52626d4da4)
+16. [优化：项目引用；](https://github.com/XiHanFun/XiHan.Framework/commit/b4d7e69380fb797b70d4503fb07f45c5612f0ad9)
+17. [优化：补充Object、Type、Reflection的帮助类；](https://github.com/XiHanFun/XiHan.Framework/commit/e7f0a0fe9cc9753a15766e275306f171b5ae334a) 
+18. 修复：任务加载bug；
+19. [修复：工具类的属性信息获取错误的bug；](https://github.com/XiHanFun/XiHan.Framework/commit/d6f4cfaaf19b3dfaa7bde3ca865d3a181892469e)
+20. 修复：拓展类为空警告；
+21. [修复：磁盘、内存信息错误的问题；](https://github.com/XiHanFun/XiHan.Framework/commit/1b0c360f98fe77ddc56d7104dbdb57a368044b59)
+22. 移除：农历；
+23. 移除：无用配置；
+
+## 2023-03-20
+
+1. 新增：即时通讯；
+2. [修复：Linux下Ip地址库出错问题；](https://github.com/XiHanFun/XiHan.Framework/commit/977ea9ec487168c196c355b2318184ae3cbf2223)
+3. [修复：日志打印明细信息；](https://github.com/XiHanFun/XiHan.Framework/commit/3fbf10d8e7b7f3bcc4cb255beb33fe02d54ed66b)
+4. [修复：Linux下环境变量问题；](https://github.com/XiHanFun/XiHan.Framework/commit/0b92f61bf3419639e46bb7815e7ad1a62959e376) 
+
+## 2023-02-28
+
+1. [`重要`：项目正式命名为曦寒；](https://github.com/XiHanFun/XiHan.Framework/commit/880b991e69be8e2051acb868780cc0931f6f20b3)
+2. [优化：部分代码；](https://github.com/XiHanFun/XiHan.Framework/commit/fd2d467a88f8eb8b724e42f7e10d48cff54a156c)
+3. [更新：软件版本；](https://github.com/XiHanFun/XiHan.Framework/commit/4474eda9e311e86cae217ad13b35796192420b3c)
+
+
+
+# 2022
+
+## 2022-12-28
+
+1. [新增：端口配置；](https://github.com/XiHanFun/XiHan.Framework/commit/bfa9a91ccbf73942577d15efe04b8e6158c6e16c) 
+2. [重构：基础设施、服务、扩展；](https://github.com/XiHanFun/XiHan.Framework/commit/e641662d8a6a86cc469c953f8ca4a7382b268093)
+3. 优化：代码可读性；
+4. [优化：部分命名空间修改；](https://github.com/XiHanFun/XiHan.Framework/commit/e616ff537b156b7761a101ce6b1c69a88c947ecd)
+5. [优化：部分功能添加日志；](https://github.com/XiHanFun/XiHan.Framework/commit/bc7433fea9b45dd0bbf0b23ea10ab51166e75ed1)
+
 ## 2022-11-19
 
 1. [`升级`：运行时版本升级至.NET 7；](https://github.com/XiHanFun/XiHan.Framework/commit/c8dde07627e3eb82ea46d8f227b101a8afbf209b)
@@ -274,6 +376,10 @@ icon: creative
 1. 新增：测试项目；
 1. 优化：文件命名统一化；
 1. 优化：配置文件，工具类移动；
+
+
+
+# 2021
 
 ## 2021-12-26
 
