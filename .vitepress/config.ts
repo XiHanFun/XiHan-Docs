@@ -124,7 +124,8 @@ export default defineConfig({
       pattern: "https://github.com/XiHanFun/XiHan.Docs/tree/main/src/:path",
     },
     footer: {
-      message: "Released under the MIT License.",
+      message:
+        "Released under the <a href='http://license.coscl.org.cn/MulanPSL2'>MulanPSL2</a> License.",
       copyright:
         "Copyright ©2023 <a href='https://www.zhaifanhua.com'>ZhaiFanhua</a> All Rights Reserved.",
     },
