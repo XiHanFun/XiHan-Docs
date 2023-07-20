@@ -83,13 +83,13 @@ icon: creative
 
 ## 官方网站
 
-> 放一些介绍啥的。
+> 即官方产品介绍。
 
 地址：[https://www.xihan.fun](https://www.xihan.fun)
 
 ## 文档地址
 
-> 即本文档当前域名。
+> 即当前本文档。
 
 地址：[https://docs.xihan.fun](https://docs.xihan.fun)
 
@@ -125,7 +125,7 @@ icon: creative
 
 ## 贡献代码
 
-`XiHan` 遵循 `MIT` 开源协议，邀请大家提交 `PR` 或 `Issue`。
+`XiHan` 遵循 `木兰宽松许可证, 第2版` [开源协议](http://license.coscl.org.cn/MulanPSL2)，邀请大家提交 `PR` 或 `Issue`。
 
 如果要为项目做出贡献，请查看 [贡献指南](ContributionCode.md)。
 
