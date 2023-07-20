@@ -18,14 +18,19 @@ icon: creative
 - `若有新功能开发`，请添加文件头，如下为我的示例：
 
 ```
+#region <<版权版本注释>>
+
 // ----------------------------------------------------------------
-// Copyright ©2023 ZhaiFanhua All Rights Reserved.
-// FileName:BlogArticleTagService
-// Guid:f9b3a059-9beb-4d04-8329-48b390fb1007
+// Copyright ©2022 ZhaiFanhua All Rights Reserved.
+// Licensed under the MulanPSL2 License. See LICENSE in the project root for license information.
+// FileName:SystemInfoHelper
+// Guid:78a183f7-8c40-40af-a3f0-7e9bff93392b
 // Author:zhaifanhua
 // Email:me@zhaifanhua.com
-// CreateTime:2022-06-04 下午 06:19:29
+// CreatedTime:2022-05-08 下午 03:53:15
 // ----------------------------------------------------------------
+
+#endregion <<版权版本注释>>
 ```
 
 ## 二、贡献代码
