@@ -17,7 +17,7 @@ export default defineConfig({
     ["link", { rel: "icon", href: "/favicon.ico" }],
   ],
   themeConfig: {
-    logo: "/logo.svg",
+    logo: "/logo.png",
     socialLinks: [{ icon: "github", link: "https://github.com/XiHanFun" }],
     search: {
       provider: "local",
