@@ -101,13 +101,11 @@ icon: creative
 
 社区：[https://github.com/XiHanFun](https://github.com/XiHanFun)
 
-官方文档：[https://github.com/XiHanFun/XiHan.Docs](https://github.com/XiHanFun/XiHan.Docs)
+文档：[https://github.com/XiHanFun/XiHan.Docs](https://github.com/XiHanFun/XiHan.Docs)
 
-后端-应用接口：[https://github.com/XiHanFun/XiHan.Framework](https://github.com/XiHanFun/XiHan.Framework)
+后端：[https://github.com/XiHanFun/XiHan.Framework](https://github.com/XiHanFun/XiHan.Framework)
 
-前端-后台管理：[https://github.com/XiHanFun/XiHan.Manage](https://github.com/XiHanFun/XiHan.Manage)
-
-前端-前台展示：[https://github.com/XiHanFun/XiHan.Display](https://github.com/XiHanFun/XiHan.Display)
+前端：[https://github.com/XiHanFun/XiHan.Display](https://github.com/XiHanFun/XiHan.Display)
 
 ### Gitee
 
@@ -115,13 +113,11 @@ icon: creative
 
 社区：[https://gitee.com/XiHanFun](https://gitee.com/XiHanFun)
 
-官方文档：[https://gitee.com/XiHanFun/XiHan.Docs](https://gitee.com/XiHanFun/XiHan.Docs)
+文档：[https://gitee.com/XiHanFun/XiHan.Docs](https://gitee.com/XiHanFun/XiHan.Docs)
 
-后端-应用接口：[https://gitee.com/XiHanFun/XiHan.Framework](https://gitee.com/XiHanFun/XiHan.Framework)
+后端：[https://gitee.com/XiHanFun/XiHan.Framework](https://gitee.com/XiHanFun/XiHan.Framework)
 
-前端-后台管理：[https://gitee.com/XiHanFun/XiHan.Manage](https://gitee.com/XiHanFun/XiHan.Manage)
-
-前端-前台展示：[https://gitee.com/XiHanFun/XiHan.Display](https://gitee.com/XiHanFun/XiHan.Display)
+前端：[https://gitee.com/XiHanFun/XiHan.Display](https://gitee.com/XiHanFun/XiHan.Display)
 
 ## 贡献代码
 

@@ -50,15 +50,11 @@ export default defineConfig({
             link: "https://demo.xihan.fun",
           },
           {
-            text: "后端-接口文档",
+            text: "后端",
             link: "https://api.xihan.fun",
           },
           {
-            text: "前端-后台管理",
-            link: "https://manage.xihan.fun",
-          },
-          {
-            text: "前端-前台展示",
+            text: "前端",
             link: "https://display.xihan.fun",
           },
         ],
@@ -74,19 +70,15 @@ export default defineConfig({
                 link: "https://github.com/XiHanFun",
               },
               {
-                text: "文档-官方文档",
+                text: "文档",
                 link: "https://github.com/XiHanFun/XiHan.Docs",
               },
               {
-                text: "后端-应用接口",
+                text: "后端",
                 link: "https://github.com/XiHanFun/XiHan.Framework",
               },
               {
-                text: "前端-后台管理",
-                link: "https://github.com/XiHanFun/XiHan.Manage",
-              },
-              {
-                text: "前端-前台展示",
+                text: "前端",
                 link: "https://github.com/XiHanFun/XiHan.Display",
               },
             ],
@@ -99,19 +91,15 @@ export default defineConfig({
                 link: "https://gitee.com/XiHanFun",
               },
               {
-                text: "文档-官方文档",
+                text: "文档",
                 link: "https://gitee.com/XiHanFun/XiHan.Docs",
               },
               {
-                text: "后端-应用接口",
+                text: "后端",
                 link: "https://gitee.com/XiHanFun/XiHan.Framework",
               },
               {
-                text: "前端-后台管理",
-                link: "https://gitee.com/XiHanFun/XiHan.Manage",
-              },
-              {
-                text: "前端-前台展示",
+                text: "前端",
                 link: "https://gitee.com/XiHanFun/XiHan.Display",
               },
             ],
