@@ -77,9 +77,9 @@ icon: creative
 
 她名曦寒。最初，这个项目名为`ZhaiFanhuaBlog`，后因上诗所述，更名`曦寒`，英文名称为此名拼音`XiHan`。
 
-维护社区为`XiHanFun`，Github 和 Gitee 同名。
+维护社区中文名称：`曦寒懿`，英文名称：`XiHanFun`，Github 和 Gitee 访问域相同。
 
-网站根域名为`xihan.fun`，欢迎访问和体验。
+官方根域名为`xihan.fun`，欢迎访问和体验。
 
 ## 官方网站
 
@@ -99,9 +99,9 @@ icon: creative
 
 > 国际，主仓库。
 
-社区：[https://github.com/XiHanFun](https://github.com/XiHanFun)
+曦寒懿社区：[https://github.com/XiHanFun](https://github.com/XiHanFun)
 
-文档：[https://github.com/XiHanFun/XiHan.Docs](https://github.com/XiHanFun/XiHan.Docs)
+官方文档：[https://github.com/XiHanFun/XiHan.Docs](https://github.com/XiHanFun/XiHan.Docs)
 
 后端：[https://github.com/XiHanFun/XiHan.Framework](https://github.com/XiHanFun/XiHan.Framework)
 
@@ -111,9 +111,9 @@ icon: creative
 
 > 国内，为方便访问的同步仓库。
 
-社区：[https://gitee.com/XiHanFun](https://gitee.com/XiHanFun)
+曦寒懿社区：[https://gitee.com/XiHanFun](https://gitee.com/XiHanFun)
 
-文档：[https://gitee.com/XiHanFun/XiHan.Docs](https://gitee.com/XiHanFun/XiHan.Docs)
+官方文档：[https://gitee.com/XiHanFun/XiHan.Docs](https://gitee.com/XiHanFun/XiHan.Docs)
 
 后端：[https://gitee.com/XiHanFun/XiHan.Framework](https://gitee.com/XiHanFun/XiHan.Framework)
 

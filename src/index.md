@@ -2,11 +2,11 @@
 layout: home
 
 title: 曦寒官方文档
-titleTemplate: 新型去中心化全场景应用软件
+titleTemplate: 新型全场景应用软件
 
 hero:
   name: 曦寒
-  text: 新型去中心化全场景应用软件
+  text: 新型全场景应用软件
   tagline: 基于 DotNet 和 Vue 构建
   image:
     src: /logo.png

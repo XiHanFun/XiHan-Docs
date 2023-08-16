@@ -4,14 +4,15 @@ export default defineConfig({
   srcDir: "src",
   lang: "zh-CN",
   title: "曦寒官方文档",
-  description: "打造个人知识产权的新型全场景应用软件",
+  description: "新型全场景应用软件",
   head: [
     ["meta", { name: "author", content: "ZhaiFanhua" }],
     [
       "meta",
       {
         name: "keywords",
-        content: "xihan, xihan docs",
+        content:
+          "曦寒,曦寒懿,官方文档,全场景,应用软件,摘繁华,xihan, xihan docs",
       },
     ],
     ["link", { rel: "icon", href: "/favicon.ico" }],
@@ -66,11 +67,11 @@ export default defineConfig({
             text: "Github",
             items: [
               {
-                text: "社区",
+                text: "曦寒懿社区",
                 link: "https://github.com/XiHanFun",
               },
               {
-                text: "文档",
+                text: "官方文档",
                 link: "https://github.com/XiHanFun/XiHan.Docs",
               },
               {
@@ -87,11 +88,11 @@ export default defineConfig({
             text: "Gitee",
             items: [
               {
-                text: "社区",
+                text: "曦寒懿社区",
                 link: "https://gitee.com/XiHanFun",
               },
               {
-                text: "文档",
+                text: "官方文档",
                 link: "https://gitee.com/XiHanFun/XiHan.Docs",
               },
               {
