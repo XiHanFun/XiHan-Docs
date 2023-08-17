@@ -1,6 +1,7 @@
 {
   "name": "xihan-docs",
-  "version": "2.0.0",
+  "version": "1.1.0",
+  "type": "module",
   "description": "Xihan Official Explanation Document",
   "author": {
     "name": "ZhaiFanhua",
@@ -24,7 +25,7 @@
     "update-pkg": "ncu --deep -u"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-beta.1"
+    "vitepress": "^1.0.0-rc.4"
   },
   "devDependencies": {
     "vue": "^3.3.4"
