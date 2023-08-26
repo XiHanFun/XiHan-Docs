@@ -2,11 +2,11 @@
 layout: home
 
 title: 曦寒官方文档
-titleTemplate: 新型全场景应用软件
+titleTemplate: 快速 轻量 高效 用心的开发框架
 
 hero:
   name: 曦寒
-  text: 新型全场景应用软件
+  text: 快速 轻量 高效 用心的开发框架
   tagline: 基于 DotNet 和 Vue 构建
   image:
     src: /logo.png
