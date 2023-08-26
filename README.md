@@ -1,3 +1,7 @@
-xihan-docs
+# 曦寒官方文档
 
-曦寒 文档说明 [预览地址](https://docs.xihan.fun/)
+一款快速，轻量，高效，用心的开发框架和新型去中心化全场景应用软件。 基于 DotNet 和 Vue 构建。
+
+[预览地址](https://docs.xihan.fun/)
+
+![image-20230826162008781](./assets/image-20230826162008781.png)
