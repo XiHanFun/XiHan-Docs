@@ -12,7 +12,7 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "曦寒,曦寒懿,官方文档,全场景,应用软件,摘繁华,xihan, xihan docs",
+          "曦寒,曦寒懿,官方文档,全场景,应用软件,开源,摘繁华,XiHanFun,xihan, xihan docs",
       },
     ],
     ["link", { rel: "icon", href: "/favicon.ico" }],
@@ -47,7 +47,7 @@ export default defineConfig({
         text: "在线体验",
         items: [
           {
-            text: "案例-所有功能",
+            text: "用例",
             link: "https://demo.xihan.fun",
           },
           {
@@ -67,11 +67,11 @@ export default defineConfig({
             text: "Github",
             items: [
               {
-                text: "曦寒懿社区",
+                text: "XiHanFun open source organization",
                 link: "https://github.com/XiHanFun",
               },
               {
-                text: "官方文档",
+                text: "文档",
                 link: "https://github.com/XiHanFun/XiHan.Docs",
               },
               {
@@ -88,11 +88,11 @@ export default defineConfig({
             text: "Gitee",
             items: [
               {
-                text: "曦寒懿社区",
+                text: "曦寒懿开放源代码组织",
                 link: "https://gitee.com/XiHanFun",
               },
               {
-                text: "官方文档",
+                text: "文档",
                 link: "https://gitee.com/XiHanFun/XiHan.Docs",
               },
               {
