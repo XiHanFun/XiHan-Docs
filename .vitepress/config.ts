@@ -67,28 +67,28 @@ export default defineConfig({
             text: "Github",
             items: [
               {
-                text: "XiHanFun open source organization",
+                text: "XiHanFun organization",
                 link: "https://github.com/XiHanFun",
               },
               {
-                text: "文档",
+                text: "Document",
                 link: "https://github.com/XiHanFun/XiHan.Docs",
               },
               {
-                text: "后端",
+                text: "Backend",
                 link: "https://github.com/XiHanFun/XiHan.Framework",
               },
               {
-                text: "前端",
+                text: "Frontend",
                 link: "https://github.com/XiHanFun/XiHan.Display",
               },
             ],
           },
           {
-            text: "Gitee",
+            text: "码云",
             items: [
               {
-                text: "曦寒懿开放源代码组织",
+                text: "曦寒懿组织",
                 link: "https://gitee.com/XiHanFun",
               },
               {
