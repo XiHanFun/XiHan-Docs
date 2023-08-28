@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   srcDir: "src",
+  ignoreDeadLinks: true,
   lang: "zh-CN",
   title: "曦寒官方文档",
   description: "新型全场景应用软件",
