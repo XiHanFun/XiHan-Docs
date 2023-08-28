@@ -2,7 +2,7 @@
   "name": "xihan-docs",
   "version": "1.2.0",
   "type": "module",
-  "description": "Xihan Official Explanation Document",
+  "description": "Xihan document project. A fast, lightweight, efficient, and dedicated development framework and new decentralized full scenario application software. Built based on DotNet and Vue.",
   "author": {
     "name": "ZhaiFanhua",
     "email": "zhaifanhua@foxmail.com",
@@ -23,13 +23,13 @@
     "serve": "vitepress serve",
     "preview": "vitepress preview",
     "update-pkg": "ncu --deep -u",
-    "reinstall": "rimraf pnpm-lock.yaml && rimraf package.lock.json && rimraf node_modules && npm run bootstrap"
+    "clean": "rimraf pnpm-lock.yaml && rimraf package.lock.json && rimraf node_modules"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-rc.9",
-    "rimraf": "^5.0.1"
+    "vitepress": "^1.0.0-rc.9"
   },
   "devDependencies": {
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "rimraf": "^5.0.1"
   }
 }
