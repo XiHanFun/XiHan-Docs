@@ -123,7 +123,7 @@ icon: creative
 
 `XiHan` 遵循 `木兰宽松许可证, 第2版` [开源协议](http://license.coscl.org.cn/MulanPSL2)，邀请大家提交 `PR` 或 `Issue`。
 
-如果要为项目做出贡献，请查看 [贡献指南](ContributionCode.md)。
+如果要为项目做出贡献，请查看 [贡献指南](../docs/develop/ContributionCode.md)。
 
 ## 变更日志
 

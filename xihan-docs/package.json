@@ -26,7 +26,7 @@
     "clean": "rimraf pnpm-lock.yaml && rimraf package.lock.json && rimraf node_modules"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-rc.9"
+    "vitepress": "^1.0.0-rc.13"
   },
   "devDependencies": {
     "vue": "^3.3.4",
