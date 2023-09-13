@@ -1,114 +1,132 @@
 import { defineConfig } from "vitepress";
+import type { DefaultTheme } from "vitepress/types";
+import { version } from "../package.json";
+
+const title: string = "曦寒官方文档";
+const description: string = "新型全场景应用软件";
+const keywords: string =
+  "曦寒,曦寒懿,官方文档,全场景,应用软件,开源,摘繁华,XiHanFun,xihan, xihan docs";
+
+const Nav: DefaultTheme.NavItem[] = [
+  { text: "项目简介", link: "guide", activeMatch: "guide" },
+  {
+    text: "探索未知",
+    items: [
+      {
+        text: "官方网站",
+        link: "https://www.xihan.fun",
+      },
+      {
+        text: "官方文档",
+        link: "https://docs.xihan.fun",
+      },
+    ],
+  },
+  {
+    text: "在线体验",
+    items: [
+      {
+        text: "用例",
+        link: "https://demo.xihan.fun",
+      },
+      {
+        text: "后端",
+        link: "https://api.xihan.fun",
+      },
+      {
+        text: "前端",
+        link: "https://display.xihan.fun",
+      },
+    ],
+  },
+  {
+    text: "代码仓库",
+    items: [
+      {
+        text: "Github(国际)",
+        items: [
+          {
+            text: "组织",
+            link: "https://github.com/XiHanFun",
+          },
+          {
+            text: "文档",
+            link: "https://github.com/XiHanFun/XiHan.Docs",
+          },
+          {
+            text: "后端",
+            link: "https://github.com/XiHanFun/XiHan.Framework",
+          },
+          {
+            text: "前端",
+            link: "https://github.com/XiHanFun/XiHan.Display",
+          },
+        ],
+      },
+      {
+        text: "Gitee(国内)",
+        items: [
+          {
+            text: "组织",
+            link: "https://gitee.com/XiHanFun",
+          },
+          {
+            text: "文档",
+            link: "https://gitee.com/XiHanFun/XiHan.Docs",
+          },
+          {
+            text: "后端",
+            link: "https://gitee.com/XiHanFun/XiHan.Framework",
+          },
+          {
+            text: "前端",
+            link: "https://gitee.com/XiHanFun/XiHan.Display",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    text: `v${version}`,
+    items: [
+      {
+        text: "贡献代码",
+        link: "docs/develop/contribution-code",
+      },
+      {
+        text: "变更日志",
+        link: "docs/develop/change-log",
+      },
+    ],
+  },
+];
 
 export default defineConfig({
   srcDir: "src",
   ignoreDeadLinks: true,
   lang: "zh-CN",
-  title: "曦寒官方文档",
-  description: "新型全场景应用软件",
+  title: title,
+  description: description,
   head: [
     ["meta", { name: "author", content: "ZhaiFanhua" }],
     [
       "meta",
       {
         name: "keywords",
-        content:
-          "曦寒,曦寒懿,官方文档,全场景,应用软件,开源,摘繁华,XiHanFun,xihan, xihan docs",
+        content: keywords,
       },
     ],
     ["link", { rel: "icon", href: "/favicon.ico" }],
   ],
+  lastUpdated: true,
+  cleanUrls: true,
   themeConfig: {
     logo: "/logo.png",
     socialLinks: [{ icon: "github", link: "https://github.com/XiHanFun" }],
     search: {
       provider: "local",
     },
-    nav: [
-      { text: "项目简介", link: "guide/", activeMatch: "guide/" },
-      {
-        text: "变更日志",
-        link: "guide/ChangeLog.md",
-        activeMatch: "guide/ChangeLog.md",
-      },
-      {
-        text: "探索未知",
-        items: [
-          {
-            text: "官方网站",
-            link: "https://www.xihan.fun",
-          },
-          {
-            text: "官方文档",
-            link: "https://docs.xihan.fun",
-          },
-        ],
-      },
-      {
-        text: "在线体验",
-        items: [
-          {
-            text: "用例",
-            link: "https://demo.xihan.fun",
-          },
-          {
-            text: "后端",
-            link: "https://api.xihan.fun",
-          },
-          {
-            text: "前端",
-            link: "https://display.xihan.fun",
-          },
-        ],
-      },
-      {
-        text: "代码仓库",
-        items: [
-          {
-            text: "Github",
-            items: [
-              {
-                text: "XiHanFun organization",
-                link: "https://github.com/XiHanFun",
-              },
-              {
-                text: "Document",
-                link: "https://github.com/XiHanFun/XiHan.Docs",
-              },
-              {
-                text: "Backend",
-                link: "https://github.com/XiHanFun/XiHan.Framework",
-              },
-              {
-                text: "Frontend",
-                link: "https://github.com/XiHanFun/XiHan.Display",
-              },
-            ],
-          },
-          {
-            text: "码云",
-            items: [
-              {
-                text: "曦寒懿组织",
-                link: "https://gitee.com/XiHanFun",
-              },
-              {
-                text: "文档",
-                link: "https://gitee.com/XiHanFun/XiHan.Docs",
-              },
-              {
-                text: "后端",
-                link: "https://gitee.com/XiHanFun/XiHan.Framework",
-              },
-              {
-                text: "前端",
-                link: "https://gitee.com/XiHanFun/XiHan.Display",
-              },
-            ],
-          },
-        ],
-      },
-    ],
+    nav: Nav,
     editLink: {
       text: "在 GitHub 上编辑此页",
       pattern: "https://github.com/XiHanFun/XiHan.Docs/tree/main/src/:path",

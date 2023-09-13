@@ -81,54 +81,6 @@ icon: creative
 
 官方根域名为`xihan.fun`，欢迎访问和体验。
 
-## 官方网站
-
-> 即官方产品介绍。
-
-地址：[https://www.xihan.fun](https://www.xihan.fun)
-
-## 文档地址
-
-> 即当前本文档。
-
-地址：[https://docs.xihan.fun](https://docs.xihan.fun)
-
-## 开源地址
-
-### Github
-
-> 国际，主仓库。
-
-曦寒懿社区：[https://github.com/XiHanFun](https://github.com/XiHanFun)
-
-官方文档：[https://github.com/XiHanFun/XiHan.Docs](https://github.com/XiHanFun/XiHan.Docs)
-
-后端：[https://github.com/XiHanFun/XiHan.Framework](https://github.com/XiHanFun/XiHan.Framework)
-
-前端：[https://github.com/XiHanFun/XiHan.Display](https://github.com/XiHanFun/XiHan.Display)
-
-### Gitee
-
-> 国内，为方便访问的同步仓库。
-
-曦寒懿社区：[https://gitee.com/XiHanFun](https://gitee.com/XiHanFun)
-
-官方文档：[https://gitee.com/XiHanFun/XiHan.Docs](https://gitee.com/XiHanFun/XiHan.Docs)
-
-后端：[https://gitee.com/XiHanFun/XiHan.Framework](https://gitee.com/XiHanFun/XiHan.Framework)
-
-前端：[https://gitee.com/XiHanFun/XiHan.Display](https://gitee.com/XiHanFun/XiHan.Display)
-
-## 贡献代码
-
-`XiHan` 遵循 `木兰宽松许可证, 第2版` [开源协议](http://license.coscl.org.cn/MulanPSL2)，邀请大家提交 `PR` 或 `Issue`。
-
-如果要为项目做出贡献，请查看 [贡献指南](../docs/develop/ContributionCode.md)。
-
-## 变更日志
-
-如果要为查看项目变更日志，请查看 [变更日志](ChangeLog.md)。
-
 ## 诚挚致谢
 
 感谢贡献代码的每一位朋友。

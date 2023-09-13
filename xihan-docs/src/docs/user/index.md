@@ -1,5 +1,6 @@
 ---
-title: 环境
+title: 使用指南
+index: false
 icon: discover
 category:
   - 使用指南
@@ -7,6 +8,4 @@ category:
 
 ## 目录
 
-### 环境
-
-- [如何在 CentOS 上安装.Net 环境](install-dotet-on-linux/)
+[安装环境](./install-dotet-on-linux)

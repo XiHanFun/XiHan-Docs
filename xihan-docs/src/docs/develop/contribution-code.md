@@ -3,6 +3,8 @@ title: 贡献代码
 icon: creative
 ---
 
+`XiHan` 遵循 `木兰宽松许可证, 第2版` [开源协议](http://license.coscl.org.cn/MulanPSL2)，邀请大家提交 `PR` 或 `Issue`。
+
 ## 一、准备工作
 
 - 安装 Git；
@@ -15,7 +17,7 @@ icon: creative
 
 <summary>1.DotNet项目</summary>
 
-[后端开发指南](backend/index.md)
+[后端开发指南](backend/index)
 
 </details>
 
@@ -23,7 +25,7 @@ icon: creative
 
 <summary>2.Vue项目</summary>
 
-[前端开发指南](frontend/index.md)
+[前端开发指南](frontend/index)
 
 </details>
 

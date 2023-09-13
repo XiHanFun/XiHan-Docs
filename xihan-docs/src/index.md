@@ -1,6 +1,5 @@
 ---
 layout: home
-
 title: 曦寒官方文档
 titleTemplate: 快速 轻量 高效 用心的开发框架
 
@@ -14,11 +13,11 @@ hero:
   actions:
     - theme: brand
       text: 快速上手
-      link: docs/index.md
+      link: docs/index
 
     - theme: alt
       text: 项目简介
-      link: guide/index.md
+      link: guide/index
 
 features:
   - title: 高效快速跨平台
