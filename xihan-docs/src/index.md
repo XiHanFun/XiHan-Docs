@@ -14,11 +14,11 @@ hero:
   actions:
     - theme: brand
       text: 快速上手
-      link: /docs/
+      link: docs/index.md
 
     - theme: alt
       text: 项目简介
-      link: /guide/
+      link: guide/index.md
 
 features:
   - title: 高效快速跨平台
