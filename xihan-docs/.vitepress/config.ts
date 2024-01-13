@@ -5,7 +5,7 @@ import { version } from "../package.json";
 const title: string = "曦寒官方文档";
 const description: string = "新型全场景应用软件";
 const keywords: string =
-  "曦寒,曦寒懿,官方文档,全场景,应用软件,开源,摘繁华,XiHanFun,xihan, xihan docs";
+  "曦寒,曦寒懿,官方文档,全场景,应用软件,开源,摘繁华,XiHanFun,xihan,docs";
 
 const Nav: DefaultTheme.NavItem[] = [
   { text: "项目简介", link: "guide", activeMatch: "guide" },
@@ -31,11 +31,11 @@ const Nav: DefaultTheme.NavItem[] = [
       },
       {
         text: "后端",
-        link: "https://api.xihan.fun",
+        link: "https://backend.xihan.fun",
       },
       {
         text: "前端",
-        link: "https://display.xihan.fun",
+        link: "https://frontend.xihan.fun",
       },
     ],
   },
@@ -51,15 +51,15 @@ const Nav: DefaultTheme.NavItem[] = [
           },
           {
             text: "文档",
-            link: "https://github.com/XiHanFun/XiHan.Docs",
+            link: "https://github.com/XiHanFun/XiHan-Docs",
           },
           {
             text: "后端",
-            link: "https://github.com/XiHanFun/XiHan.Framework",
+            link: "https://github.com/XiHanFun/XiHan-Backend",
           },
           {
             text: "前端",
-            link: "https://github.com/XiHanFun/XiHan.Display",
+            link: "https://github.com/XiHanFun/XiHan-Frontend",
           },
         ],
       },
@@ -72,15 +72,15 @@ const Nav: DefaultTheme.NavItem[] = [
           },
           {
             text: "文档",
-            link: "https://gitee.com/XiHanFun/XiHan.Docs",
+            link: "https://gitee.com/XiHanFun/XiHan-Docs",
           },
           {
             text: "后端",
-            link: "https://gitee.com/XiHanFun/XiHan.Framework",
+            link: "https://gitee.com/XiHanFun/XiHan-Backend",
           },
           {
             text: "前端",
-            link: "https://gitee.com/XiHanFun/XiHan.Display",
+            link: "https://gitee.com/XiHanFun/XiHan-Frontend",
           },
         ],
       },
@@ -129,7 +129,7 @@ export default defineConfig({
     nav: Nav,
     editLink: {
       text: "在 GitHub 上编辑此页",
-      pattern: "https://github.com/XiHanFun/XiHan.Docs/tree/main/src/:path",
+      pattern: "https://github.com/XiHanFun/XiHan-Docs/tree/main/src/:path",
     },
     footer: {
       message:
