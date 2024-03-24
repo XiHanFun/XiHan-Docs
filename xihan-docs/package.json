@@ -23,13 +23,13 @@
     "serve": "vitepress serve",
     "preview": "vitepress preview",
     "update-pkg": "ncu --deep -u",
-    "clean": "rimraf pnpm-lock.yaml && rimraf package.lock.json && rimraf node_modules"
+    "clean": "rimraf .vitepress/cache && rimraf pnpm-lock.yaml && rimraf package.lock.json && rimraf node_modules"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-rc.25"
+    "vitepress": "^1.0.1"
   },
   "devDependencies": {
-    "vue": "^3.3.8",
+    "vue": "^3.4.21",
     "rimraf": "^5.0.5"
   }
 }
